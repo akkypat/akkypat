@@ -3,7 +3,7 @@ Here are some ideas to get you started: Иван @akkypat
 Навыки 🛠️
 Технологии: Linux 🐧, SSH, Bash, Python 🐍, Matlab, AutoCAD, MS Excel, Git
 Работа с данными: Pandas, PostgreSQL, MS SQL, MS BI
-Инструменты BI: VBA, Visio
+Инструменты BI: VBA, Visio \n
 Soft Skills: Работа в команде 🤝, гибкость в подходах 🔄, критическое мышление 🧠, обучаемость 📚, ответственность ✅, самоорганизация ⏰
 
 Опыт работы 💼
